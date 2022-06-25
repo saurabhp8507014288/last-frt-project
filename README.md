@@ -34,11 +34,4 @@ Core Idea of Project is to build an sample prototype of Online Medicine buying p
 ### Contact Us:
 ![image](https://user-images.githubusercontent.com/74844269/175767640-3deef33e-67ac-44e2-9a58-4498af474bfb.png)
 
-
-
-
-
-
-
-
-### -------------------------------------------------------THANK YOU---------------------------------------------------
+### -------------------------------------THANK YOU---------------------------------------------------
